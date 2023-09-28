@@ -1,0 +1,4 @@
+/src/test/
+*.xml
+.idea
+target
